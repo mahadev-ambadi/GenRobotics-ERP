@@ -70,3 +70,12 @@ Project
 → Inventory
 → Material Issue
 → Payment Processing
+
+
+## System Architecture
+
+![ERP Architecture](GenRobotics_ERP_Architecture.png)
+
+## ERP Workflow
+
+![ERP Workflow](GenRobotics_ERP_Workflow.png)
